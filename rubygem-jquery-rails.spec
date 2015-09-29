@@ -4,7 +4,7 @@
 #
 Name     : rubygem-jquery-rails
 Version  : 4.0.4
-Release  : 1
+Release  : 2
 URL      : https://rubygems.org/downloads/jquery-rails-4.0.4.gem
 Source0  : https://rubygems.org/downloads/jquery-rails-4.0.4.gem
 Summary  : No detailed summary available
