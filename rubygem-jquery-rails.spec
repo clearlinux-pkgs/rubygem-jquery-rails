@@ -4,7 +4,7 @@
 #
 Name     : rubygem-jquery-rails
 Version  : 4.1.0
-Release  : 3
+Release  : 4
 URL      : https://rubygems.org/downloads/jquery-rails-4.1.0.gem
 Source0  : https://rubygems.org/downloads/jquery-rails-4.1.0.gem
 Summary  : No detailed summary available
@@ -53,40 +53,29 @@ fi
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/jquery-rails-4.1.0.gem
-/usr/lib64/ruby/gems/2.2.0/doc/jquery-rails-4.1.0/ri/Jquery/Rails/Engine/cdesc-Engine.ri
-/usr/lib64/ruby/gems/2.2.0/doc/jquery-rails-4.1.0/ri/Jquery/Rails/cdesc-Rails.ri
-/usr/lib64/ruby/gems/2.2.0/doc/jquery-rails-4.1.0/ri/Jquery/cdesc-Jquery.ri
-/usr/lib64/ruby/gems/2.2.0/doc/jquery-rails-4.1.0/ri/Rails/Dom/Testing/Assertions/SelectorAssertions/assert_select_jquery-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/jquery-rails-4.1.0/ri/Rails/Dom/Testing/Assertions/SelectorAssertions/cdesc-SelectorAssertions.ri
-/usr/lib64/ruby/gems/2.2.0/doc/jquery-rails-4.1.0/ri/Rails/Dom/Testing/Assertions/SelectorAssertions/unescape_js-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/jquery-rails-4.1.0/ri/Rails/Dom/Testing/Assertions/cdesc-Assertions.ri
-/usr/lib64/ruby/gems/2.2.0/doc/jquery-rails-4.1.0/ri/Rails/Dom/Testing/cdesc-Testing.ri
-/usr/lib64/ruby/gems/2.2.0/doc/jquery-rails-4.1.0/ri/Rails/Dom/cdesc-Dom.ri
-/usr/lib64/ruby/gems/2.2.0/doc/jquery-rails-4.1.0/ri/Rails/cdesc-Rails.ri
-/usr/lib64/ruby/gems/2.2.0/doc/jquery-rails-4.1.0/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/gems/jquery-rails-4.1.0/.gitignore
-/usr/lib64/ruby/gems/2.2.0/gems/jquery-rails-4.1.0/.travis.yml
-/usr/lib64/ruby/gems/2.2.0/gems/jquery-rails-4.1.0/CHANGELOG.md
-/usr/lib64/ruby/gems/2.2.0/gems/jquery-rails-4.1.0/CONTRIBUTING.md
-/usr/lib64/ruby/gems/2.2.0/gems/jquery-rails-4.1.0/Gemfile
-/usr/lib64/ruby/gems/2.2.0/gems/jquery-rails-4.1.0/MIT-LICENSE
-/usr/lib64/ruby/gems/2.2.0/gems/jquery-rails-4.1.0/README.md
-/usr/lib64/ruby/gems/2.2.0/gems/jquery-rails-4.1.0/Rakefile
-/usr/lib64/ruby/gems/2.2.0/gems/jquery-rails-4.1.0/VERSIONS.md
-/usr/lib64/ruby/gems/2.2.0/gems/jquery-rails-4.1.0/jquery-rails.gemspec
-/usr/lib64/ruby/gems/2.2.0/gems/jquery-rails-4.1.0/lib/jquery-rails.rb
-/usr/lib64/ruby/gems/2.2.0/gems/jquery-rails-4.1.0/lib/jquery/assert_select.rb
-/usr/lib64/ruby/gems/2.2.0/gems/jquery-rails-4.1.0/lib/jquery/rails.rb
-/usr/lib64/ruby/gems/2.2.0/gems/jquery-rails-4.1.0/lib/jquery/rails/engine.rb
-/usr/lib64/ruby/gems/2.2.0/gems/jquery-rails-4.1.0/lib/jquery/rails/version.rb
-/usr/lib64/ruby/gems/2.2.0/gems/jquery-rails-4.1.0/test/assert_select_jquery_test.rb
-/usr/lib64/ruby/gems/2.2.0/gems/jquery-rails-4.1.0/test/test_helper.rb
-/usr/lib64/ruby/gems/2.2.0/gems/jquery-rails-4.1.0/vendor/assets/javascripts/jquery.js
-/usr/lib64/ruby/gems/2.2.0/gems/jquery-rails-4.1.0/vendor/assets/javascripts/jquery.min.js
-/usr/lib64/ruby/gems/2.2.0/gems/jquery-rails-4.1.0/vendor/assets/javascripts/jquery.min.map
-/usr/lib64/ruby/gems/2.2.0/gems/jquery-rails-4.1.0/vendor/assets/javascripts/jquery2.js
-/usr/lib64/ruby/gems/2.2.0/gems/jquery-rails-4.1.0/vendor/assets/javascripts/jquery2.min.js
-/usr/lib64/ruby/gems/2.2.0/gems/jquery-rails-4.1.0/vendor/assets/javascripts/jquery2.min.map
-/usr/lib64/ruby/gems/2.2.0/gems/jquery-rails-4.1.0/vendor/assets/javascripts/jquery_ujs.js
-/usr/lib64/ruby/gems/2.2.0/specifications/jquery-rails-4.1.0.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/jquery-rails-4.1.0.gem
+/usr/lib64/ruby/gems/2.3.0/gems/jquery-rails-4.1.0/.gitignore
+/usr/lib64/ruby/gems/2.3.0/gems/jquery-rails-4.1.0/.travis.yml
+/usr/lib64/ruby/gems/2.3.0/gems/jquery-rails-4.1.0/CHANGELOG.md
+/usr/lib64/ruby/gems/2.3.0/gems/jquery-rails-4.1.0/CONTRIBUTING.md
+/usr/lib64/ruby/gems/2.3.0/gems/jquery-rails-4.1.0/Gemfile
+/usr/lib64/ruby/gems/2.3.0/gems/jquery-rails-4.1.0/MIT-LICENSE
+/usr/lib64/ruby/gems/2.3.0/gems/jquery-rails-4.1.0/README.md
+/usr/lib64/ruby/gems/2.3.0/gems/jquery-rails-4.1.0/Rakefile
+/usr/lib64/ruby/gems/2.3.0/gems/jquery-rails-4.1.0/VERSIONS.md
+/usr/lib64/ruby/gems/2.3.0/gems/jquery-rails-4.1.0/jquery-rails.gemspec
+/usr/lib64/ruby/gems/2.3.0/gems/jquery-rails-4.1.0/lib/jquery-rails.rb
+/usr/lib64/ruby/gems/2.3.0/gems/jquery-rails-4.1.0/lib/jquery/assert_select.rb
+/usr/lib64/ruby/gems/2.3.0/gems/jquery-rails-4.1.0/lib/jquery/rails.rb
+/usr/lib64/ruby/gems/2.3.0/gems/jquery-rails-4.1.0/lib/jquery/rails/engine.rb
+/usr/lib64/ruby/gems/2.3.0/gems/jquery-rails-4.1.0/lib/jquery/rails/version.rb
+/usr/lib64/ruby/gems/2.3.0/gems/jquery-rails-4.1.0/test/assert_select_jquery_test.rb
+/usr/lib64/ruby/gems/2.3.0/gems/jquery-rails-4.1.0/test/test_helper.rb
+/usr/lib64/ruby/gems/2.3.0/gems/jquery-rails-4.1.0/vendor/assets/javascripts/jquery.js
+/usr/lib64/ruby/gems/2.3.0/gems/jquery-rails-4.1.0/vendor/assets/javascripts/jquery.min.js
+/usr/lib64/ruby/gems/2.3.0/gems/jquery-rails-4.1.0/vendor/assets/javascripts/jquery.min.map
+/usr/lib64/ruby/gems/2.3.0/gems/jquery-rails-4.1.0/vendor/assets/javascripts/jquery2.js
+/usr/lib64/ruby/gems/2.3.0/gems/jquery-rails-4.1.0/vendor/assets/javascripts/jquery2.min.js
+/usr/lib64/ruby/gems/2.3.0/gems/jquery-rails-4.1.0/vendor/assets/javascripts/jquery2.min.map
+/usr/lib64/ruby/gems/2.3.0/gems/jquery-rails-4.1.0/vendor/assets/javascripts/jquery_ujs.js
+/usr/lib64/ruby/gems/2.3.0/specifications/jquery-rails-4.1.0.gemspec
