@@ -1,4 +1,4 @@
 # File auto-generated with 'Watchfile generator'
-# 2016-02-25 23:03:08.324906
+# 2016-07-14 22:13:53.922843
 # {'>=2.0.2', 'development'}
-watchurl=https://rubygems.org/gems/jquery-rails/versions/([0-9]+(\.[0-9]+)?(\.[0-9]+)?)
+watchurl=https://rubygems.org/gems/jquery-rails/versions/([0-9]+(?:\.[0-9]+)*)
